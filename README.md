@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-USgeocoder is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://usgeocoder.com/
+USgeocoder provides robust US sales tax rates and political district data for every address and geocode, including congressional, state legislative, county, municipality, school districts, elected officials, and census geographies. Their API enables developers to integrate accurate location-based tax and district information into applications, supporting compliance, analytics, and service personalization across the United States.
+
+**Areas:** Company · API · Location · Tax · District
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://usgeocoder.com/)
+- [Documentation](https://usgeocoder.com/api_overview)
+- [Getting started](https://usgeocoder.com/api_trial_signup_step1)
+- [API reference](https://usgeocoder.com/api_overview)
+- [Support](https://usgeocoder.com/contact_us)
+- [Blog](http://blog.usgeocoder.com)
+- [Terms of service](https://usgeocoder.com/termsof_service)
+- [Privacy policy](https://usgeocoder.com/privacy_statement)
+- [Status](https://status.usgeocoder.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/usgeocoder/](https://apis.io/providers/usgeocoder/).
